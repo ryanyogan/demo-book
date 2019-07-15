@@ -2,7 +2,7 @@
 title: Introduction
 seoTitle: title for search engines
 seoDescription: description for search engines
-excerpt: "This is just a preview, I love my book engine"
+excerpt: "This is just a preview, I love my book enginez"
 ---
 
 ## What is Lorem Ipsum?
